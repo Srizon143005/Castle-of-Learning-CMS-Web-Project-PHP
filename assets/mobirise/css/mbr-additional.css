@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+
+
+
+#dropdown-menu-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 1em;
+  color: #e6e0dc;
+  font-family: 'Playfair Display', sans-serif;
+}
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #37383e;
+}
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #2d2e33;
+}
+#dropdown-menu-0 .navbar-toggler {
+  color: #e6e0dc;
+}
+#header1-2 P {
+  color: #fbfbfb;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+}
+#header1-2 H1 {
+  color: #bfc7d6;
+}
+#header1-2 B {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+#footer1-m P {
+  text-align: center;
+}
+#msg-box3-q .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-q .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-q .lead P {
+  text-align: left;
+  font-size: 18px;
+}
+#msg-box3-q .mbr-section-title {
+  text-align: center;
+}
+#msg-box3-q .mbr-section-title B {
+  font-size: 36px;
+}
+#social-buttons2-i .mbr-section-title {
+  color: #000000;
+  font-family: 'Lora', serif;
+}
+#social-buttons2-i .mbr-section-title I {
+  font-size: 36px;
+}
